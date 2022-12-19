@@ -8,5 +8,5 @@ En los siguientes proyectos, se emplean las herramientas más importantes para h
  
 1.  [Visualización de datos](https://vanefigueroa.github.io/Data-Visualization/) 
 
-2.  [Transformación de datos](https://vanefigueroa.github.io/Data-Transformation/)
+2.  [Transformación de datos. Caso: aerolíneas.](https://vanefigueroa.github.io/Data-Transformation/)
  
